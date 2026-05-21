@@ -1,0 +1,5 @@
+Artificial Intelligence is the simulation of human intelligence by machines.
+
+Machine Learning is a subset of Artificial Intelligence that enables systems to learn from data.
+
+Natural Language Processing allows computers to understand and process human language.
