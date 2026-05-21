@@ -86,7 +86,7 @@ python app.py
 ## 📁 Folder Structure
 
 ```bash
-document-qa-system/
+GenAI.Learniverse
 │
 ├── app.py
 ├── requirements.txt
